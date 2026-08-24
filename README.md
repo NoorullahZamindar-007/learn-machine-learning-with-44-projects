@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-
+ 
 # Learn Machine Learning Through 44 Practical Projects
 
 ### Theory · Mathematics · Intuition · Code · Evaluation · Real-World Practice
