@@ -9,7 +9,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,45:0f172a,100:0369a1&text=Learn%20Machine%20Learning&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=44%20Algorithms%20%E2%80%A2%2044%20Projects%20%E2%80%A2%20One%20Complete%20Learning%20Journey&descAlignY=58&descSize=19&animation=fadeIn" alt="Learn Machine Learning Through 44 Projects" />
 </p>
 
-<div align="center">
+<div align="center"> 
  
 # Learn Machine Learning Through 44 Practical Projects
 
