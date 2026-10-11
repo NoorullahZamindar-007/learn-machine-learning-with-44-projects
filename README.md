@@ -96,7 +96,7 @@ The goal is not only to call `.fit()` and print a score. Each project connects:
 - [Contributing](#-contributing)
 - [Author](#-author)
 - [License](#-license)
-
+  
 ---
 
 ## 🚀 Learning Workflow
