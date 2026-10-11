@@ -62,7 +62,7 @@ The goal is not only to call `.fit()` and print a score. Each project connects:
       Run every notebook online without local setup
     </td>
     <td align="center" width="25%">
-      <strong>Complete Explanations</strong><br />
+      <strong>Complete Explanations</strong><br /> 
       Theory, mathematics, code and common mistakes
     </td>
     <td align="center" width="25%">
