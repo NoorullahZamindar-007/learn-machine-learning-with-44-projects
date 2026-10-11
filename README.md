@@ -175,7 +175,7 @@ Each folder is independent. Open its notebook in Colab and select **Runtime → 
 | Symbol | Status |
 |:---:|---|
 | ✅ | Completed |
-| 🚧 | In progress |
+| 🚧 | In progress | 
 | ⬜ | Planned |
 
 ### 1. Regression Projects 01–13
